@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mpw0311/count.svg" />
+</p>
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mpw0311&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 <!--
 **mpw0311/mpw0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
