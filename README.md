@@ -19,7 +19,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mpw0311&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mpw0311&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpw0311&layout=compact)](https://github.com/mpw0311/github-readme-stats)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mpw0311&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!--
