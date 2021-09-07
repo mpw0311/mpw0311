@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
+
+
 ### Hi there 👋
 
 <p align="center"> 
@@ -13,6 +17,10 @@
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mpw0311&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mpw0311&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
 **mpw0311/mpw0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
