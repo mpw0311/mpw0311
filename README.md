@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mpw0311&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mpw0311&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mpw0311&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
